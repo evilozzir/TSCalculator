@@ -1,0 +1,37 @@
+body {
+transition-property: all;
+transition-duration: 2s;
+transition-timing-function: linear;
+	}
+#top {
+transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+	}
+#wrapper{
+transition-property: all;
+transition-duration: 2s;
+transition-timing-function: linear;
+	}
+#output{
+transition: all 1s;
+}
+#input{
+transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+	}
+#calculate{
+transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+.textInput{
+transition-property: all;
+transition-duration: 1s;
+transition-timing-function: linear;
+	}
+.down{
+margin-bottom: -250px;
+margin-top: 250px;
+	}
